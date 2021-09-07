@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brendan-winters
 - 👀 I’m interested in most things
 - 🌱 I’m currently learning mathematics and statistics
-- 📫 How to reach me bjfwinters@gmail.com
+- 📫 How to reach me brendan.winters@students.mq.edu.au
 
 <!---
 brendan-winters/brendan-winters is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
